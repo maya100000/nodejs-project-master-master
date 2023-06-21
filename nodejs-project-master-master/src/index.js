@@ -2,7 +2,7 @@
 //Maya Sasson - 209222769
 const app = require("./server");
 
-app.listen(process.env.PORT || 3000, "localhost", () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log(`Server up and running at ${process.env.PORT || 3000}`);
 });
 
