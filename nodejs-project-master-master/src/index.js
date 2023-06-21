@@ -1,4 +1,4 @@
-//Lipaz Mizrahi - 206505745
+//Lipaz Mizrahi. - 206505745
 //Maya Sasson - 209222769
 const app = require("./server");
 
